@@ -1,0 +1,14 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rapp.history
+.Rhistory
+.RData
+*.Rproj
+.Rproj.user/
+.Rproj.user
+.Rdata
+.httr-oauth
+.DS_Store
+*.html
