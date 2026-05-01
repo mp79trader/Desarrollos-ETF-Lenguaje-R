@@ -3,7 +3,7 @@
 ## Descripción
 Repositorio de estrategias y herramientas avanzadas para el análisis y trading de ETFs utilizando el lenguaje de programación R. Incluye scripts para optimización, análisis multivariable y exportación de resultados profesionales.
 
-## Estructura del Proyecto
+## Estructura del Proyecto 
 - `Estrategia-ETF-Pro.R`: Estrategia profesional robusta con machine learning (caret, ranger).
 - `EstrategiaETF-Multiples.R`: Análisis de portafolios de múltiples ETFs.
 - `EstrategiaETF-Optimizada.R`: Implementación enfocada en alto rendimiento.
